@@ -6,3 +6,11 @@ This is to simple demostrate the **BOLD**, _ITALIC_ and ***BOLD cum ITALIC*** fo
 
 Quote of the day
 >Do always good from your end to everyone and the God will do the same with you.
+
+Services we provide
+* Mutual Fund
+* Fixed Deposit
+* Recurring Deposity
+* Demat account
+* Saving/Current account
+* Credit cards
